@@ -1,2 +1,2 @@
-# range_tree
-range tree data structure in Python
+# Range_tree
+Range tree data structure in Python
